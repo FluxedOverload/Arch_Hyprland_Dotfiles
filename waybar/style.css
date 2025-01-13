@@ -15,7 +15,8 @@
  * ----------------------------------------------------- */
 
 * {
-    font-family: FontAwesome, Roboto, Helvetica, Arial, sans-serif;
+    font-family: JetBrainsMonoNerd;
+    font-weight: bold;
     font-size: 16px;
 }
 
@@ -55,8 +56,8 @@ window#waybar {
 	border-color: @magenta @magenta @blue @blue;
 	border-radius: 15px;
 	border-width: 2px;
-	padding-left: 20px;
-	padding-right:20px;
+	padding-left: 15px;
+	padding-right: 5px;
 }
 
 #controls {
@@ -150,5 +151,5 @@ window#waybar {
 	border-color: @magenta @magenta @blue @blue;
 	border-radius: 10px;
 	border-width: 2px;
-	padding-left: 7px;
+	padding-left: 10px;
 }

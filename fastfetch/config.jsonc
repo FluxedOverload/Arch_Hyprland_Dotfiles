@@ -22,8 +22,8 @@
     },
     "modules": [
         "os",
-        "kernel",
 	"shell",
+	"terminal",
         "wm",
         "theme",
         "uptime",
